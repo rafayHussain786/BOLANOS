@@ -1,0 +1,1318 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav {
+    background-color: #01182F;
+}
+
+.home {
+    color: white;
+}
+
+.home:hover {
+    color: #bbbbbb;
+}
+
+.main button {
+    border: none;
+    border: 1px solid white;
+    background-color: #01182F;
+    color: white;
+    padding: 3px 15px;
+    border-radius: 5px;
+}
+
+.main button:hover {
+    background-color: white;
+    color: #000F1E;
+}
+
+.left {
+    width: 450px;
+}
+
+.heading h1 {
+    color: white;
+}
+
+.mypara {
+    color: #808b97;
+}
+
+.number h1 {
+    color: white;
+    margin-bottom: 0;
+}
+
+.number p {
+    color: #808b97;
+}
+
+.planet {
+    background-image: url(/images/Image\ planet.png);
+    object-fit: cover;
+    width: 500px;
+    height: 380px;
+    background-repeat: no-repeat;
+    /* position: absolute;
+    bottom: 60px;
+    left: -303px; */
+    /* transform: rotate(-20deg); */
+}
+
+.right {
+    position: relative;
+
+    /* height: 450px;
+    width: 700px; */
+}
+
+.card {
+    width: 340px;
+    border-radius: 10px;
+    /* position: absolute;
+    right: 0; */
+
+}
+
+.card h5 {
+    font-weight: 800;
+    color: #01182F;
+}
+
+.card p {
+    color: #808b97;
+}
+
+.inform {
+    width: 100%;
+}
+
+.inform input {
+    width: 100%;
+    background-color:
+        #ECECEC;
+    border: none;
+    border-radius: 8px;
+    padding: 15px 10px;
+    color: #002244;
+}
+
+.inform input::placeholder {
+    color: #646D75;
+}
+
+.costom button {
+    border: none;
+    background-color: #000F1E;
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+    padding: 15px 10px;
+    width: 100%;
+
+}
+
+.privecy {
+    font-size: 10px;
+    color: #646D75;
+}
+
+.card-icon {
+    border-top: 1px solid;
+    border-color: #ECECEC;
+}
+
+.devider {
+    margin: 30px 0px;
+}
+
+.card {
+    padding-bottom: 0;
+}
+
+.under {
+    border-bottom: 1px solid;
+    border-color: #646D75;
+    color: #646D75;
+}
+
+.icon-text {
+    color: #002244;
+    font-weight: 600;
+}
+
+.right-sec {
+    gap: 30px;
+}
+
+.canal img {
+    height: 45px;
+}
+
+.whole.img {
+    height: 35px;
+}
+
+.left-sec {
+    border-right: 1px solid;
+    padding-right: 25px;
+    border-color:
+        #DDE0E2;
+}
+
+.partener {
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.partener h4 {
+    margin-bottom: 0;
+    color: #002244;
+}
+
+.best {
+    color: #646D75;
+}
+
+.section2 {
+    border-bottom: 1px solid;
+    border-color:
+        #DDE0E2;
+}
+
+
+
+.company p {
+    margin-bottom: 0;
+    color: #646D75;
+}
+
+.company h2 {
+    color: #002244;
+}
+
+.section2 {
+    background-color: #F0F8FF;
+}
+
+.section3 {
+    background-color: #F0F8FF;
+}
+
+.scrollBar {
+    border: none;
+    height: 215px;
+    background-color: #DDE0E2;
+    width: 5px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+}
+
+.scroll {
+    border:
+        none;
+    height: 215px;
+    background-color: #002244;
+    width: 5px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+
+}
+
+.first2 {
+    display: flex;
+    /* display: flow-root; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.scrollBar2 {
+    border: none;
+    height: 5px;
+    background-color: #DDE0E2;
+    width: 145px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.scroll2 {
+    border: none;
+    height: 5px;
+    width: 145px;
+    background-color: #002244;
+
+    border-radius: 5px;
+}
+
+.circle {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    background-color: #002244;
+}
+
+/* .second {
+    width: 600px;
+} */
+
+.instante4 {
+    border-bottom: 1px solid;
+    border-color: #DDE0E2;
+
+}
+
+.truck-img img {
+    height: 430px;
+}
+
+.truck {
+    height: 70px;
+    width: 170px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+
+}
+
+
+.truck3 {
+    position: absolute;
+    top: 60px;
+    left: 219px;
+}
+
+.truck4 {
+    position: absolute;
+    bottom: 18px;
+    left: -30px;
+}
+
+.instante2 h5 {
+    color: #002244;
+}
+
+.instante2 p {
+    color: #646D75;
+}
+
+.hour {
+    color: #002244;
+    font-weight: bold;
+    margin-top: 2px;
+}
+
+
+.section5 {
+    background-color: #F0F8FF;
+}
+
+.agent {
+    padding: 20px 0px;
+    border-bottom: 1px solid;
+    border-color: #DDE0E2;
+    gap: 10px;
+    width: 300px;
+}
+
+.agent:last-child {
+    border: none;
+}
+
+.agent2 {
+    font-weight: bold;
+    color: #002244;
+}
+
+.right-side img {
+    height: 430px;
+
+}
+
+.left-side {
+    width: 320px;
+}
+
+.size {
+    font-size: 12px;
+    color: #646D75;
+}
+
+.size1 {
+    color: #646D75;
+    margin-bottom: 30px;
+}
+
+.company1 {
+    width: 80vw;
+}
+
+.section9,
+.section8,
+.section7,
+.section6 {
+    background-color: #F0F8FF;
+}
+
+.backg {
+    background-image: url(/images/truck\ frame.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+    object-fit: contain;
+}
+
+.section5 {
+    padding: 80px 0px 48px 0px;
+}
+
+.check {
+    font-weight: bold;
+    color: #002244;
+}
+
+.card1 {
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 5px;
+    border-color: #DDE0E2;
+    border-bottom: 5px solid #002244;
+    height: 450px;
+}
+
+.card-title,
+.card-subtitle {
+    color: #002244;
+}
+
+.card-text {
+    color: #646D75;
+}
+
+.company3 p {
+    color: #646D75;
+}
+
+.company3 h2 {
+    color: #002244;
+}
+
+.icon-circle {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 1px solid;
+    border-color: #002244;
+    color: #002244;
+    font-size: 26px;
+}
+
+.icon-circle:hover {
+    color: white;
+    background-color: #002244;
+}
+
+.agency {
+    /* height: 300px; */
+    width: 350px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    padding: 20px;
+}
+
+.quatition img {
+    position: relative;
+    top: -40px;
+    left: 0;
+
+}
+
+.txt-side h5 {
+    font-weight: 700;
+}
+
+.agency p {
+    color: #646D75;
+}
+
+.last-section {
+    background-color: #01182F;
+}
+
+.logoo p {
+    color: white;
+}
+
+.separete a {
+    color: white;
+    font-weight: bold;
+}
+
+.same a {
+    color: #bfc5cf;
+}
+
+.sign-up {
+    padding: 10px 30px;
+    background-color: white;
+    color: #002244;
+    border-radius: 10px;
+    border: none;
+    font-weight: 700;
+    height: fit-content;
+}
+
+.menu-icon {
+    color: white;
+}
+
+.nborder {
+    border: none;
+
+}
+
+.commercial-txt a {
+    color: white;
+}
+
+.copyright {
+    border-top: 1px solid #002244;
+    color: white;
+
+}
+
+.color3 {
+    background-color: #000F1E;
+
+}
+
+.color3 li a {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 0px) {
+    .last-card {
+        height: 510px;
+    }
+
+    .card1 {
+        margin-bottom: 30px;
+    }
+
+    .third1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .truck-img {
+        position: relative;
+        height: 242px;
+        width: 250px;
+    }
+
+    .third {
+        padding-top: 40px;
+    }
+
+    .truck4 {
+        bottom: 3px;
+        left: -12px;
+    }
+
+    .truck3 {
+        top: 98px;
+        left: 110px;
+    }
+
+    /* .truck{
+        width: 100px;
+    } */
+    .hour {
+        font-size: 13px;
+    }
+
+    .safety img {
+        height: 20px;
+    }
+
+    .truck-img {
+        text-align: center;
+
+    }
+
+    .truck-img img {
+        height: 250px;
+        /* padding-left: 55px; */
+
+    }
+
+    .safety img {
+        height: 20px;
+        text-align: left;
+        padding-left: 0;
+    }
+
+    .safety {
+        text-align: left;
+    }
+
+    .hour {
+        text-align: left;
+    }
+
+    .first2 {
+        margin-bottom: 40px;
+    }
+
+    .scroll2,
+    .scrollBar2 {
+        width: 85px;
+    }
+
+    .marg {
+        margin: 20px 0px;
+    }
+
+    /* .heading{
+        width: 300px;
+    } */
+    .main {
+        margin-top: 30px;
+
+    }
+
+    .main5 button {
+        display: none;
+    }
+
+    .mypara {
+        display: none;
+    }
+
+    .devider {
+        display: none;
+    }
+
+    .one,
+    .two,
+    .five {
+        display: none;
+    }
+
+    .card {
+        margin: 0px auto;
+    }
+
+    .card {
+        border: none;
+        width: 300px;
+    }
+
+    .top-nav {
+        height: 650px;
+    }
+
+    .section2 {
+        padding-top: 200px;
+    }
+
+    .left-sec {
+        text-align: center;
+        margin-bottom: 25px;
+        border-right: none;
+    }
+
+    .canal {
+        display: none;
+    }
+
+    .whole {
+        margin: 0px auto;
+        margin-top: 20px;
+    }
+
+    .partener h4 {
+        font-weight: 700;
+        display: inline;
+        border-bottom: 1px solid #DDE0E2;
+        padding-bottom: 10px;
+
+    }
+
+    .company h2 {
+        font-weight: 700;
+    }
+
+    .first {
+        display: none;
+    }
+
+    .whole img {
+        height: 25px;
+    }
+
+    .right-side {
+        text-align: center;
+        margin-top: 20px;
+
+
+    }
+
+    .right-side img {
+        height: 170px;
+    }
+
+    .tex {
+        width: 92vw;
+    }
+
+    .inner2 {
+        display: none;
+    }
+
+    .first6 {
+        display: none;
+    }
+
+    .center1 {
+        width: 300px;
+        margin: 0px auto;
+    }
+
+    .nonee2 {
+        display: none;
+    }
+
+    .agency {
+        width: 94vw;
+        margin-top: 50px;
+    }
+
+    .dispp {
+        display: none;
+    }
+
+    .logoo {
+        display: none;
+    }
+
+    .separete1 {
+        margin-top: 20px;
+    }
+
+    .sign-up1 button {
+        display: none;
+    }
+
+    .comercial1 {
+        margin-bottom: 20px;
+    }
+
+    .left {
+        width: 100%;
+    }
+
+    .left-sec {
+        padding-right: 0;
+    }
+
+    .company3 {
+        text-align: center;
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 576px) {
+    .last-card {
+        height: 450px;
+    }
+
+    .truck4 {
+        bottom: -16px;
+        left: -84px;
+    }
+
+    .truck3 {
+        top: 38px;
+        left: 205px;
+    }
+
+    .truck-img img {
+        height: 350px;
+        padding-left: 0;
+    }
+
+    .safety img {
+        height: 20px;
+        text-align: left;
+        padding-left: 0;
+    }
+
+    .truck-img {
+        position: relative;
+        height: 320px;
+        width: 350px;
+    }
+
+    .scroll2,
+    .scrollBar2 {
+        width: 200px;
+    }
+
+    .right-side img {
+        height: 270px;
+    }
+
+    .center1 {
+        width: 450px;
+        margin: 0px auto;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 768px) {
+    .right-sec {
+        justify-content: space-evenly;
+        padding-top: 30px;
+    }
+
+    .whole {
+        display: none;
+    }
+
+    .canal {
+        display: ruby;
+        justify-content: center;
+    }
+
+    .top-nav {
+        height: 500px;
+    }
+
+    .main1 {
+        display: flex;
+
+    }
+
+    .main5 button {
+        display: ruby;
+    }
+
+    .heading p {
+        display: ruby;
+    }
+
+    .devider {
+        display: ruby;
+    }
+
+    .mypara {
+        display: ruby;
+    }
+
+    .devider img {
+        padding: 50px 0px;
+    }
+
+    .main1 {
+        margin-top: 30px;
+    }
+
+    .inside-sec {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    /* .inner{
+    display: flex;
+    justify-content: space-between;
+} */
+    .right-side img {
+        height: 200px;
+    }
+
+    /* .inner3{
+    display: flex;
+    justify-content: space-between;
+   } */
+    .tex {
+        width: 60vw;
+        margin: 0px auto;
+
+    }
+
+    .middlee {
+        display: none;
+    }
+
+    .felxx {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .none2 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .first6 {
+        display: none;
+    }
+
+    .reque {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+    }
+
+    .right {
+        margin-top: 15px;
+    }
+
+    .separete1 {
+        margin-top: 0px;
+    }
+
+    .commercial {
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+}
+
+@media screen and (min-width: 992px) {
+    .card1 {
+        height: 500px;
+    }
+
+    .company {
+        width: 500px;
+    }
+
+    .whole {
+        display: ruby;
+        margin-top: 0;
+    }
+
+    .canal img {
+        height: 35px;
+    }
+
+    .left-sec h4 {
+        padding-bottom: 0;
+        border-bottom: none;
+    }
+
+    .left-sec {
+        margin-bottom: 0;
+        border-right: 1px solid #DDE0E2;
+    }
+
+    .right-sec {
+        padding-top: 0;
+    }
+
+    .security {
+        display: flex;
+        align-items: center;
+    }
+
+    .main1 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .main5 button {
+        display: ruby;
+    }
+
+    .heading p {
+        display: ruby;
+    }
+
+    .one,
+    .two,
+    .five {
+        display: ruby;
+    }
+
+    .devider {
+        display: ruby;
+    }
+
+    .mypara {
+        display: ruby;
+    }
+
+    .devider img {
+        padding: 50px 0px;
+    }
+
+    .top-nav {
+        height: 680px;
+
+    }
+
+    .main {
+        margin-top: 0;
+    }
+
+    .main1 {
+        margin-top: 30px;
+    }
+
+    .card {
+        position: absolute;
+        right: 0;
+    }
+
+    .section2 {
+        padding-top: 0;
+    }
+
+    .card {
+        border: none;
+        width: 350px;
+        top: 21px;
+    }
+
+    .first2 {
+        display: none;
+    }
+
+    .first {
+        display: ruby;
+    }
+
+    .scroll2,
+    .scrollBar2 {
+        width: 400px;
+    }
+
+    .felxx {
+        display: block;
+    }
+
+    .left {
+        width: 50%;
+    }
+
+
+
+
+
+
+    .instante {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .circle {
+        margin-left: 13px;
+    }
+
+
+    .truck4 {
+        bottom: 69px;
+        left: -20px;
+    }
+
+    .truck3 {
+        top: 38px;
+        left: 205px;
+    }
+
+    .truck-img img {
+        height: 480px;
+        width: 340px;
+        padding-left: 0;
+        padding-top: 0;
+    }
+
+    .third {
+        padding-top: 0;
+    }
+
+    .safety img {
+        height: 20px;
+        text-align: left;
+        padding-left: 0;
+        width: 20px;
+    }
+
+    .truck-img {
+        position: relative;
+        height: 520px;
+        width: 350px;
+
+
+    }
+
+    .instante2 {
+        width: 400px;
+    }
+
+    .first {
+        width: 50px;
+    }
+
+    .tex {
+        width: 50vw;
+
+    }
+
+    .inner2 {
+        display: ruby;
+    }
+
+    .left-side {
+        width: 400px;
+
+    }
+
+    .right-side img {
+        height: 360px;
+    }
+
+    .none2 {
+        display: block;
+    }
+
+    .first1 {
+        display: none;
+    }
+
+    .first6 {
+        display: ruby;
+    }
+
+    .center1 {
+        display: none;
+    }
+
+    .center2 {
+        width: 35vw;
+    }
+
+    .nonee {
+        display: none;
+    }
+
+    .inner3 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .size {
+        margin-bottom: 0;
+    }
+
+    .nonee2 {
+        display: ruby;
+    }
+
+    .last-flex {
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    .agency {
+        width: 30vw;
+        margin-top: 0;
+    }
+
+    .disp {
+        display: none;
+    }
+
+    .dispp {
+        display: ruby;
+    }
+
+    .fsize {
+        font-size: 16px;
+    }
+
+    .right-sec {
+        justify-content: space-between;
+
+    }
+
+    .right {
+        margin-top: -5px;
+    }
+
+    .logoo {
+        display: ruby;
+    }
+
+    .sign-up1 button {
+        display: ruby;
+    }
+
+    .comercial1 {
+        margin-bottom: 0;
+    }
+
+    .agency {
+
+        width: 390px;
+    }
+
+    .company1 {
+        width: 800px;
+    }
+
+    .left-sec {
+
+        padding-right: 20px;
+    }
+
+    .walking-para {
+        display: flex;
+
+    }
+
+    .agency {
+        width: 300px;
+    }
+
+    .company3 {
+        text-align: left;
+
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+@media screen and (min-width: 1200px) {
+    .card1 {
+        height: 450px;
+    }
+
+    .truck4 {
+        bottom: 69px;
+        left: -100px;
+    }
+
+    .truck3 {
+        top: 38px;
+        left: 219px;
+    }
+
+    .truck-img img {
+        height: 480px;
+        width: 370px;
+        padding-left: 0;
+        padding-top: 0;
+    }
+
+    .third {
+        padding-top: 0;
+    }
+
+    .safety img {
+        height: 20px;
+        text-align: left;
+        padding-left: 0;
+        width: 20px;
+    }
+
+    .truck-img {
+        position: relative;
+        height: 520px;
+        width: 350px;
+
+    }
+
+    .fsize {
+        gap: 25px;
+    }
+
+    .right-sec {
+        gap: 50px;
+    }
+
+    .card {
+
+        width: 450px;
+    }
+
+    .agency {
+        width: 400px;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .left {
+        width: 558px;
+    }
+}
