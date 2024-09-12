@@ -1,0 +1,124 @@
+a{
+
+  text-decoration: none;
+}
+
+
+  .login-section {
+    display: flex;
+    min-height: 100vh;
+  }
+
+ 
+  .login-left {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    width: 100%;
+    max-width: 400px;
+  }
+
+
+  .login-right img {
+   height: 98vh;
+  }
+
+ 
+  .login-container {
+    max-width: 350px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  /* Logo section */
+  .login-logo img {
+    max-width: 150px;
+    margin-bottom: 20px;
+  }
+
+  /* Form styling */
+  .login-card {
+    border: none;
+    background-color: transparent;
+  }
+
+  .login-card h3 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .login-card p {
+    font-size: 14px;
+    color: #6c757d;
+  }
+
+  .form-control {
+    border-radius: 6px;
+    padding: 15px 15px;
+    color: #4a4c4e !important;
+
+  }
+  .form-control::placeholder{
+    color: #6c757d;
+  }
+
+  .btn-primary {
+    background-color: #0d6efd;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+  }
+
+  .forgot-password {
+    font-size: 14px;
+   font-weight: bold;
+   color: #0d2239;
+  }
+
+  /* Social icons */
+  .social-icons img {
+    width: 32px;
+  }
+.loginButton{
+  background-color: #0d2239 !important;
+  color: white;
+}
+.commonColor{
+  color: #0d2239;
+}
+.registerAccount{
+  color: #0d2239;
+  font-weight: bold;
+}
+.txtCommonColor{
+  color: #6c757d !important;
+}
+  .social-icons a {
+    margin: 0 10px;
+  }
+  @media screen and (min-width: 0px) {
+    .login-right{
+      display: none;
+      
+    }
+    .login-section{
+      display: flex;
+      justify-content: center;
+    }
+  }
+  @media screen and (min-width:992px) {
+    .login-right{
+      display: ruby;      
+    }
+
+
+    .login-section{
+     justify-content: space-evenly;
+      
+      background-color: #eef8ff;
+    }
+    .login-logo{
+      text-align: left !important;
+    }
+  }
+
