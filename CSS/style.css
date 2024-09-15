@@ -1,32 +1,22 @@
 a {
-    text-decoration: none;
-    color: black;
+    text-decoration: none !important;
+    color: white !important;
 }
 
 .top-nav {
     background-color: #01182F;
 }
-
-.home {
-    color: white;
-}
-
-.home:hover {
-    color: #bbbbbb;
-}
-
-.main button {
+.main5 button{
+    background-color: #01182F !important;
     border: none;
     border: 1px solid white;
-    background-color: #01182F;
     color: white;
-    padding: 3px 15px;
-    border-radius: 5px;
+    border-radius: 3px;
+    padding: 3px 10px;
 }
-
-.main button:hover {
-    background-color: white;
-    color: #000F1E;
+.main5 button:hover{
+    background-color: white !important;
+    color: #01182F;
 }
 
 .left {
@@ -443,9 +433,7 @@ a {
     background-color: #01182F;
 }
 
-.logoo p {
-    color: white;
-}
+
 
 .separete a {
     color: white;

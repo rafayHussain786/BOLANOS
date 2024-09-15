@@ -1,0 +1,215 @@
+:root {
+    --bodyBackgroundColor: #F0F8FF; 
+    --backgroundColorBorder:#002244;
+    --paraColor:#646D75;
+}
+a{
+    text-decoration: none !important;
+    color: white !important;
+}
+
+body {
+    background-color: var(--bodyBackgroundColor) !important;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden; 
+}
+
+
+#mission {
+    padding: 3rem 1rem;
+    max-width: 100%;
+}
+.missionButton{
+    background-color: var(--backgroundColorBorder) !important;
+    color: white !important;
+}
+
+
+.mission-heading {
+   color: var(--backgroundColorBorder);
+   font-weight: bold;   
+}
+
+.simplePara {
+   margin-bottom: 0;
+   color: var(--paraColor);
+}
+
+/* Responsive Image */
+.driver-img img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Mission buttons */
+.missionButton {
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+/* Divider Image */
+.divider-img {
+    max-width: 100px;
+    height: auto;
+}
+
+/* Responsive margin for buttons */
+.mission-buttons .btn {
+    font-size: 1rem;
+    padding: 10px 20px;
+}
+
+/* Footer and Navbar (Placeholders - adjust as needed) */
+#footer, #navbar {
+    width: 100%;
+}
+
+
+
+        /* Custom Styles */
+        body {
+            background-color: #F0F8FF;
+            font-family: Arial, sans-serif;
+        }
+
+        .section-top {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .section-top h1 {
+            color: #0C2A4D;
+            font-weight: bold;
+        }
+
+        .section-top p {
+            color: #6C8AA3;
+            font-size: 1.2rem;
+        }
+
+        /* Styling for the image and card in the grid */
+        .image-card {
+            position: relative;
+        }
+
+        .image-card img {
+            max-width: 100%;
+            border-radius: 12px;
+        }
+
+        .floating-card {
+            position: absolute;
+            background-color: white;
+            padding: 10px 20px;
+            border-radius: 12px;
+            top: 10%;
+            left: 10%;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .floating-card-bottom {
+            position: absolute;
+            background-color: white;
+            padding: 10px 20px;
+            border-radius: 12px;
+            bottom: 10%;
+            left: 10%;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .icon {
+            margin-right: 10px;
+        }
+
+        .features-list {
+            padding-left: 0;
+        }
+
+        .features-list li {
+            list-style-type: none;
+            margin-bottom: 20px;
+            color: #0C2A4D;
+        }
+
+        .features-list li h5 {
+            margin-bottom: 5px;
+        }
+
+        .features-list li p {
+            margin: 0;
+            color: #6C8AA3;
+        }
+        .sectionTopHeading{
+            color: var(--backgroundColorBorder);
+        }
+        .sectionTopPara{
+            font-size: 6px;
+            margin-bottom: 10px;
+        }
+
+
+
+     
+        
+        .image-container {  
+            position: relative;  
+        }  
+        
+        .image-container img {  
+            width: 100%;  
+            height: auto;  
+            border-radius: 10px;  
+        }  
+        
+        
+        
+       .bottomParacolor p{
+        color: var(--paraColor);
+
+       }
+       .bottomParacolor h2{
+        color: #002244;
+       }
+     
+  
+
+
+/* Ensure mission section stacks on smaller screens */
+@media (max-width: 768px) {
+    #mission {
+        text-align: center;
+        padding: 2rem 1rem;
+    }
+
+    .mission-heading {
+        font-size: 1.75rem;
+    }
+
+    .simplePara {
+        font-size: 0.9rem;
+    }
+
+    .driver-img img {
+        margin-bottom: 20px;
+    }
+
+    .mission-buttons {
+        justify-content: center;
+    }
+}
+
+/* Footer signup button centering */
+#footer .signup-btn {
+    display: block;
+    text-align: center;
+    margin: 1rem auto;
+}
+
+/* Fix for smaller screen footer display */
+@media (min-width: 768px) {
+    #footer .signup-btn {
+        display: inline-block;
+        text-align: left;
+    }
+}
