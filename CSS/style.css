@@ -1,6 +1,6 @@
 a {
     text-decoration: none !important;
-    color: white !important;
+    color: #646D75 !important;
 }
 
 .top-nav {
@@ -126,7 +126,7 @@ a {
 .under {
     border-bottom: 1px solid;
     border-color: #646D75;
-    color: #646D75;
+    color: #646D75 !important;
 }
 
 .icon-text {
@@ -482,6 +482,68 @@ a {
     color: white;
 }
 
+
+.topLoginBtn{
+    background-color: #01182F !important;
+    border: none;
+    border: 1px solid white;
+    color: white;
+    border-radius: 3px;
+    padding: 3px 10px;
+}
+#commonNav{
+    background-color: #01182F;
+}
+.color3{
+    background-color: #03274b !important;
+}
+.color4:hover{
+    background-color: #03274b !important;
+}
+.topLoginBtn:hover{
+    background-color: white !important;
+    color: #01182F;
+
+}
+.menu-icon i{
+color: white !important;
+
+
+}
+.nborder{
+    border-color: white !important;
+}
+
+.logoo p{
+    color: white !important;
+}
+.same{
+    color: #BFC5CB;
+}
+#commonFooter{
+    background-color: #01182F;
+}
+.same a{
+    color: #BFC5CB;
+}
+.sign-up{
+    background-color:#01182F  !important;
+    height: 40px;
+    border: none;
+    border: 1px solid ;
+    border-radius: 5px;
+    color: white;
+    padding: 0px 15px;
+    font-weight: bold;
+}
+.copyright{
+    border-top: 1px solid rgba(255, 255, 255, 0.089);
+
+}
+a{
+    text-decoration: none !important;
+    color: white !important;
+}
 
 
 
