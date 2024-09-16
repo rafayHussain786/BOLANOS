@@ -546,8 +546,10 @@ a{
 }
 
 
-
-
+ .nborder{
+    border: 1px solid white !important;
+    
+ }
 
 
 
