@@ -1,0 +1,71 @@
+.right{
+
+    border-radius: 5px;
+
+}
+.inform input{
+    width: 100%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid;
+    border-color: rgba(0, 0, 0, 0.192);
+    color: #252a2e;
+}
+.inform input::placeholder{
+    color: #646D75;
+}
+.card{
+    border-color: rgba(0, 0, 0, 0.158);
+}
+.card h3{
+color: #002244;
+
+}
+.card p{
+    color: #646D75;
+    width: 270px;
+    font-size: 14px;
+}
+.costom button{
+    width: 100%;
+    padding: 10px 15px;
+    margin-top: 15px;
+    border: none;
+  
+    background-color: #002244;
+    color: white;
+    border-radius: 10px;
+}
+.under,
+.icon-text,
+.privecy{
+    color: #646D75;
+}
+
+
+@media screen and (min-width:0px) {
+    .right{
+        width: 100%;
+    }
+    .card p{
+        width: 100%;
+    }
+    .card{
+        border: none;
+     
+    }
+    
+}
+@media screen and (min-width:576px) {
+    .right{
+        width: 400px;
+        box-shadow: 0px 0px 10px  rgba(0, 0, 0, 0.205);
+    }
+    .card p{
+        width: 270px;
+    }
+    .card{
+        border: 1px solid rgba(0, 0, 0, 0.103);
+    }
+}
